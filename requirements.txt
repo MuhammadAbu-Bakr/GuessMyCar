@@ -1,0 +1,4 @@
+pyswip==0.2.10
+pygame-ce==2.5.7
+tk==0.1.0
+pillow
